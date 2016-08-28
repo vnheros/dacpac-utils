@@ -1,0 +1,8 @@
+packages/
+dacchksum/bin/
+dacchksum/obj/
+dacapi/bin/
+dacapi/obj/
+*.suo
+*.snk
+*.dbmdl
